@@ -30,8 +30,8 @@ This SQL project analyzes product-level data from Zepto, a quick-commerce grocer
 - How much estimated revenue is generated per product category?
 
 ## 📂 Files
-- `  Dataset
-- `zepto_analysis.sql`: SQL queries used for cleaning & analysis
+-  Dataset - https://github.com/mr212812/sql-projects/blob/main/zepto_v1.xlsx
+-  SQL queries -
 
 ## 👩‍💻 Author
 **Manvi Rana**  
