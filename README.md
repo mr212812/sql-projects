@@ -5,7 +5,7 @@
 This SQL project analyzes product-level data from Zepto, a quick-commerce grocery delivery platform. The goal is to clean the data, extract meaningful patterns, and generate business insights.
 
 ## 📁 Dataset
-- **File:** `zepto_v1.xlsx`
+- **File:**  https://github.com/mr212812/sql-projects/blob/main/zepto_v1.xlsx
 - **Contents:** Product name, category, MRP, discount, stock, quantity, weight, etc.
 
 ## 🛠 Tools Used
@@ -31,7 +31,7 @@ This SQL project analyzes product-level data from Zepto, a quick-commerce grocer
 
 ## 📂 Files
 -  Dataset - https://github.com/mr212812/sql-projects/blob/main/zepto_v1.xlsx
--  SQL queries -
+-  SQL queries - https://github.com/mr212812/sql-projects/blob/main/zepto_analysis.sql
 
 ## 👩‍💻 Author
 **Manvi Rana**  
